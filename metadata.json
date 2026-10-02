@@ -1,0 +1,8 @@
+{
+  "name": "Лісовий патруль",
+  "description": "Захоплива українська карткова гра на виживання «Лісовий патруль»",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ],
+  "permissions": []
+}
